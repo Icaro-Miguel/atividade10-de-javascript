@@ -1,0 +1,22 @@
+body{
+    font-family: cursive;
+    background-color: cadetblue;
+}
+
+
+
+
+
+p{
+    color:orange;
+    font-size: 15px;
+}
+
+ h2, h3{
+ color: orangered;
+ font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
